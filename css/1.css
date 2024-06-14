@@ -1,0 +1,36 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+header {
+  background-color: #f0f8ff; /* Light blue color */
+}
+
+nav {
+  background-color: #e0e0e0; /* Light grey color */
+}
+
+main {
+  background-color: #ffffff; /* White color */
+  font-size: 18px;
+}
+
+footer {
+  background-color: #dcdcdc; /* Light grey color */
+}
+
+li {
+  display: inline-block;
+  width: 150px; /* Adjust width as needed */
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Georgia', serif;
+  color: #333333; /* Dark grey color */
+}
+
+p {
+  line-height: 1.6; /* Adjust line height as needed */
+}
